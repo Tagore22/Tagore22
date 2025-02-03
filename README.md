@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tagore22)](https://solved.ac/tagore22/)
-honggood123@naver.com
+* honggood123@naver.com
 <!--
 **Tagore22/Tagore22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
